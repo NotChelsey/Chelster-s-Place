@@ -60,8 +60,8 @@
 
     <!-- Header -->
     <header id="top" class="header">
-        <div class="text-vertical-center">
-            <h1>Stop animal testing and animal cruelty TODAY!</h1>
+        <div class="text-vertical-center" style="color:red">
+            <h1>Stop animal testing animal cruelty TODAY!</h1>
             <h3>Find out how YOU can help save an animals life</h3>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
@@ -74,77 +74,70 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Learn about the many animals in need and how you can help</h2>
-                    <p class="lead">There are people who feel the same way as you;<a target="_blank" href="http://www.humanesocietyny.org">Help stop animal abuse and testing</a>.</p>
+                    <p class="lead">There are people who feel the same way as you;<a target="_blank" href="http://www.humanesocietyny.org">Help stop animal abuse</a>.</p>
                 </div>
             </div>
             <!-- /.row -->
         </div>
         <!-- /.container -->
     </section>
-
-    <!-- Services -->
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <section id="services" class="services bg-primary">
+<section id="services" class="services bg-primary">
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h2>Our Services</h2>
+                    <h2>Learn More and Get Educated.</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
-                                <span class="fa-stack fa-4x">
+                                <span class="fa-stack fa-4x" style="color:yellow">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-cloud fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Be Heard</strong>
+                                    <strong>How about some fun?</strong>
                                 </h4>
-                                <p>Tell us how you feel. Share your opinion and talk with 
-                                    those who feel the same.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>Go ahead and show you loving pet side with these amazing animal games.</p>
+                                <a href="http://www.animalplanet.com/pet-games/" class="btn btn-light">Click Me!</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
-                                <span class="fa-stack fa-4x">
+                                <span class="fa-stack fa-4x" style="color:hotpink">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-compass fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Like our page</strong>
+                                    <strong>Adopt don't Buy</strong>
                                 </h4>
-                                <p>Go like our facebook, twitter and instagram page
-                                    to learn more.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>Instead of shopping for an animal how about adopting one. There are many senior dogs and cats, and kitten and puppies that could use your lovin'.</p>
+                                <a href="https://rescuegroups.org/adoption-listing-websites/" class="btn btn-light"> Adopt Now!</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
-                                <span class="fa-stack fa-4x">
+                                <span class="fa-stack fa-4x" style="color:red">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-flask fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Donate</strong>
+                                    <strong>New member to the family?</strong>
                                 </h4>
-                                <p>Show your support by giving a helping hand and donating
-                                    to great causes.</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <p>Here are some tips on taking care of a newly adopted pet and how to show them love.</p>
+                                <a href="https://www.petsmartcharities.org/blog/5-ways-to-make-your-newly-adopted-pet-feel-at-home" class="btn btn-light">♥♥♥</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="service-item">
-                                <span class="fa-stack fa-4x">
+                                <span class="fa-stack fa-4x" style="color:purple">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-shield fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Get involved!</strong>
+                                    <strong>Animals given a second chance.</strong>
                                 </h4>
-                                <p>Do you wanan help? Find other ways to get out there and 
-                                    get you and your friends involved!</p>
-                                <a href="http://www.humanesocietyny.org" class="btn btn-light">Learn More</a>
+                                <p>Animals that were rescued and now live happy and healthy lives with their loving families.</p>
+                                <a href="http://www.likazing.com/rescued-animals/" class="btn btn-light">Check it Out!</a>
                             </div>
                         </div>
                     </div>
@@ -156,11 +149,10 @@
         </div>
         <!-- /.container -->
     </section>
-
     <!-- Callout -->
     <aside class="callout">
         <div class="text-vertical-center">
-            <h1>Vertically Centered Text</h1>
+            <h1></h1>
         </div>
     </aside>
 
@@ -169,7 +161,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
+                    <h2>Who We Do This For</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
@@ -216,38 +208,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>The buttons below are impossible to resist.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
+                    <h3>What is your fave animals? </h3>
+                    <a href="http://www.kittenrescue.org/index.php/about/our-favorite-success-stories/" class="btn btn-lg btn-light">Cats</a>
+                    <a href="http://www.rescuepledge.org/stories/" class="btn btn-lg btn-dark">Dogs</a>
+                    <h3>How about fave wild animals?</h3>
+                    <a href="http://www2.padi.com/blog/2016/09/18/5-incredible-marine-life-rescue-stories-hooks-and-lines/" class="btn btn-lg btn-light">Sea Animals</a>
+                    <a href="http://www.wildanimalsanctuary.org/rescue-stories" class="btn btn-lg btn-dark">Land Animals</a>
                 </div>
             </div>
         </div>
     </aside>
 
-    <!-- Map -->
-    <section id="contact" class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-        <br />
-        <small>
-            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-        </small>
-        </iframe>
-    </section>
-
+    
     <!-- Footer -->
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Start Bootstrap</strong>
-                    </h4>
-                    <p>3481 Melrose Place
-                        <br>Beverly Hills, CA 90210</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">name@example.com</a>
-                        </li>
-                    </ul>
+                    
                     <br>
                     <ul class="list-inline">
                         <li>
@@ -261,7 +239,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                
                 </div>
             </div>
         </div>
